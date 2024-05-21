@@ -1,4 +1,4 @@
 SELECT score, name
-FROM second_table
-HAVING name IS NOT NULL
+FROM hbtn_0c_0.second_table
+WHERE name IS NOT NULL
 ORDER BY score DESC;
