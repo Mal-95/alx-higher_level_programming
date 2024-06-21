@@ -1,5 +1,5 @@
 #!/usr/bin/python3
-""" Task 2.Takes an argument + display all table in a state where name matched the arg """
+""" Task 2.Takes arg + display all table in a state where name matched the arg """
 import MySQLdb
 import sys
 
