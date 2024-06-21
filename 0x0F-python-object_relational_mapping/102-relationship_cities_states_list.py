@@ -26,4 +26,3 @@ if __name__ == "__main__":
         list_cities(username, password, db_name)
     else:
         print("Usage: ./list_cities.py <mysql_username> <mysql_password> <database_name>")
-
